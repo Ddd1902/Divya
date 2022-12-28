@@ -1,0 +1,137 @@
+What is a webpage?
+-> A Single page which is displayed on the browser is a webpage.
+--------------------------------------------------------------------------------------------
+What is a Website?
+-> Collection and link of webpages is called as a Website.
+--------------------------------------------------------------------------------------------
+What is HTML?
+-> HTML is a markup language which is used to add elements in a webpage.
+-> In simple words, It is used to create a webpage.
+-> HTML stands for
+   H : Hyper
+   T : Text
+   M : Markup
+   L : Language
+-> HyperText means HyperLink, which means to link one webpage with another.
+-> Markup means a set of markup tags, any tags which is written in <> angular brackets are known as markup tags.
+--------------------------------------------------------------------------------------------
+		Markup
+     	-------------------------
+	|			|
+    predefine               userdefine
+	|			|
+      HTML		       XML
+-> Pre-define : Pre means before, over here in HTML tags are already defined, we need to call them
+-> User-Define : In XML, user can write his own tags.
+--------------------------------------------------------------------------------------------
+To Create a webpage, HTML follows certain steps:
+1) Basic Syntax:
+	<html>
+	<head>
+	<title></title>
+	</head>
+	<body>
+	</body>
+	</html>
+
+-> In HTML, every tags which is opened have a closing tag, there are few tags which does not have closing tags.
+-> <html> is a opening tag.
+-> </html> is a closing tag.
+-> To save an html file, we use extension of .html or .htm
+-------------------------------------------------------------------------------------------
+Tags in HTML
+<html>	: Defines a Webpage.
+<head>	: Provides information to webpage
+<title>	: Writes title on titlebar
+<body>	: Visibility of the webpage
+<b>	: Bold
+<strong>: Bold
+<i>	: Italic
+<em>	: Italic
+<u>	: Underline
+<p>	: Paragraph
+<br>	: Line Break
+<h1><h6>: Heading Tags. H1 is the highest and H6 is the smallest
+<center>: Align the data in center
+<hr>	: Horizontal Row
+<marquee>: Scrolling Text
+<img>	: Adds Images in the webpage
+<a>	: Anchor
+-------------------------------------------------------------------------------------------
+Attributes
+Property or Elements of a tag is called as an attribute of a tag.
+-------------------------------------------------------------------------------------------
+-> Some tags in HTML does not have a closing tag, such tags are known as Singleton Tags.
+-> E.G: <br><hr><img>
+--------------------------------------------------------------------------------------------
+In HTML we have 3 types of List:
+1) Ordered List
+<ol>	: Ordered List
+2) Unordered List
+<ul>	: UnOrdered List
+3) Defination List
+<dl>	: Defination List
+
+To Create List for ordered and unordered list we use following tag:
+<li>	: List Items
+To create defination list we use following tag:
+<dt>	: Defination Term
+<dd>	: Defination Data
+----------------------------------------------------------------------------------------------
+What is a Table?
+-> Collection of rows and columns is called as a Table.
+-> Rows are horizontal.
+-> Columns are vertical.
+-> Intersection of rows and columns is called a cell.
+-----------------
+|	|	|
+-----------------
+|	|	|
+-----------------
+|	|	|
+-----------------
+-> In HTML to create a table we use the following tags:
+<table>	: To create a table
+<tr>	: Table Row
+<th>	: Table Header
+<td>	: Table Data
+<thead>	: Table Header
+<tfoot>	: Table Footer
+<tbody>	: Table Body
+---------------------------------------------------------------------------------------------
+HTML Forms
+-> To create a form in HTML, following tag is used
+<form>	: TO create a form
+<input> : Input Data From user
+<button>: Allows to create button
+
+-> in <input> tag, there are 9 default types:
+   1) text
+   2) password
+   3) radio
+   4) checkbox
+   5) file
+   6) hidden
+   7) submit
+   8) reset
+   9) button
+-------------------------------------------------------------------------------------------
+HTML 5 FORMS
+-> There are more <input> type in HTML 5
+1) color
+2) email
+3) date
+4) time
+5) datetime-local
+6) number
+7) tel
+
+
+
+
+
+
+
+
+
+
